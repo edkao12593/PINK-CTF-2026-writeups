@@ -152,6 +152,7 @@ It highlights chests through walls and terrain.
 If a picture contains a chest, you can use ChestESP to locate it much more easily.
 
 **Search**
+
 <img width="714" height="90" alt="image" src="https://github.com/user-attachments/assets/90a5b6f1-4793-4b10-b302-07ba2661910e" />
 
 Now THIS is the really useful one.
