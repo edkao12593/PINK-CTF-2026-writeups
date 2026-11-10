@@ -1,6 +1,7 @@
 # Where U From?
 
 **Category:** Misc  
+**Tag:**sanity
 **Points:** 10  
 **Author:** QWERTZ
 
