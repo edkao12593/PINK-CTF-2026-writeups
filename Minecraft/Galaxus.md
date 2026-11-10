@@ -161,6 +161,7 @@ The Search feature allows you to specify a block type, and Wurst Client will hig
 <img width="437" height="311" alt="image" src="https://github.com/user-attachments/assets/c6116bf2-773b-4750-add7-9b1d8e4a1dab" />
 
 In fancy RGB colors too!
+<img width="1920" height="1009" alt="2026-11-10_19 32 20" src="https://github.com/user-attachments/assets/6be9d8fa-56ac-4adf-9f4e-bbba2745d3ac" />
 
 So here's what you can do:
 
