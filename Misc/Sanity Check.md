@@ -1,5 +1,5 @@
 # Sanity Check
-C
+
 **Category:** Misc  
 **Tag:** Sanity / Discord  
 **Points:** 25  
@@ -21,6 +21,7 @@ After navigating to the `#rules` channel, we can find the following statement:
 Although it is presented as an example of the flag format, the example itself is the actual flag,also you can kinda see something suspicious already.
 Which I'll talk about in sanity check 2
 
+<img width="1330" height="673" alt="image" src="https://github.com/user-attachments/assets/26aef72c-0212-4d5f-9743-6e3495fab470" />
 
 
 ## Flag
