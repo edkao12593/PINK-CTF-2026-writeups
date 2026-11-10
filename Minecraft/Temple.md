@@ -7,9 +7,9 @@
 
 ## Challenge Description
 
-> The Sculkers conquered my beautiful temple... They want to destroy the holy flag, only known by the original residents of the temple...
->
-> mc.pink.bayern -> Temple NPC
+The Sculkers conquered my beautiful temple... They want to destroy the holy flag, only known by the original residents of the temple...
+
+mc.pink.bayern -> Temple NPC
 
 ## Solution and Thought
 
@@ -17,11 +17,12 @@
 
 First, you gotta find and click the **Temple NPC** to actually enter the challenge world.
 
-*[Insert screenshot: Temple NPC]*
+<img width="854" height="480" alt="2026-11-10_19 40 07" src="https://github.com/user-attachments/assets/5d6e2773-0481-4637-a786-1598fd05f900" />
 
 Once you enter the temple, you'll be greeted by a boss who tells you to find the **Resistor**.
 
-*[Insert screenshot: Boss dialogue]*
+<img width="882" height="234" alt="image" src="https://github.com/user-attachments/assets/adf8a832-0033-4dc2-b927-8a717f206996" />
+
 
 So, how exactly are we supposed to find this Resistor?
 
@@ -51,17 +52,20 @@ In Wurst Client, this feature is called **NameTags**.
 
 It basically allows you to see player name tags all the time, even through walls and from a distance. You can also adjust the settings to make the name tags much more visible.
 
+<img width="395" height="241" alt="image" src="https://github.com/user-attachments/assets/0b24fa69-bc5c-4171-b2c0-70a8b7eea65e" />
+
 And here's the important part: **NPCs have name tags too!**
 
 Unlike real players, NPCs usually have names that don't look like normal Minecraft usernames.
 
 So, by combining **PlayerESP** and **NameTags**, you can easily spot NPCs hiding around the temple.
 
-*[Insert screenshot: PlayerESP and NameTags enabled]*
 
-*[Insert screenshot: Wurst NameTags settings]*
+<img width="1920" height="1009" alt="2026-11-10_19 22 12" src="https://github.com/user-attachments/assets/609c261d-1611-40b4-9bdc-cff1587de9e8" />
+
 
 And voilà! There's a **Sculk Resistor** right there!
+<img width="1920" height="1009" alt="2026-11-10_19 23 08" src="https://github.com/user-attachments/assets/57390c75-de1e-467f-a267-23bc9c9533a5" />
 
 ### 3. Talking to the Resistor
 
@@ -69,13 +73,13 @@ Now that we've found the Resistor, all we need to do is reach it.
 
 You can either use a fly hack to get there directly or climb up manually if you prefer doing things the legitimate way.
 
-Once you interact with the Resistor, he'll tell you about a mysterious magic spell that nobody knows how to use.
+Once you interact with the Resistor, he'll tell you about a mysterious magic formula that nobody knows how to use.
 
 He then gives you this strange code:
 
 `SLQN{D_W3pso3_0i_G4unq3vv_exuqv_o1n3_i1u3}`
 
-*[Insert screenshot: Resistor dialogue]*
+<img width="815" height="167" alt="image" src="https://github.com/user-attachments/assets/10ebc21c-fc22-46dd-9e91-0bd071a8be1e" />
 
 Hmm... That looks suspicious.
 
@@ -85,7 +89,7 @@ But if you know even a little bit about classical ciphers, you'll probably recog
 
 **It's a Caesar cipher!**
 
-### 4. Decoding the Magic Spell
+### 4. Decoding the Magic Formula
 
 A Caesar cipher is a simple substitution cipher that shifts each letter by a fixed number of positions in the alphabet.
 
@@ -97,7 +101,7 @@ Paste the mysterious code into the decoder:
 
 `SLQN{D_W3pso3_0i_G4unq3vv_exuqv_o1n3_i1u3}`
 
-*[Insert screenshot: Cipher entered into dCode]*
+<img width="833" height="815" alt="image" src="https://github.com/user-attachments/assets/e55fd287-4ae8-4217-b325-5e0b86158313" />
 
 And guess what?
 
