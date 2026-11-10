@@ -14,9 +14,10 @@ A simple sanity check challenge to start it off! this CTF actually have 3 sanity
 
 To solve it, navigate to the team page and select a country. In my case, I selected **Taiwan**.
 
-After saving the selection, the flag appears directly on the team page.
+After saving the selection, the flag appears directly on the team page like this.
 
 
+<img width="385" height="189" alt="image" src="https://github.com/user-attachments/assets/d1366947-211d-45dc-b293-3e285013a04f" />
 
 ## Flag
 
