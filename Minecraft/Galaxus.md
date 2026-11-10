@@ -191,11 +191,13 @@ This method works for the following pictures:
 <img width="1920" height="1009" alt="2026-11-07_06 21 21" src="https://github.com/user-attachments/assets/28bd9e1e-07cc-4736-982a-13c12f44e31d" />
 <img width="1920" height="1009" alt="2026-11-07_06 12 04" src="https://github.com/user-attachments/assets/56d38a71-a5e9-4342-915d-e3e76b054f6b" />
 Holy hill took me a bit of time to find correct angle.
+
 <img width="1920" height="1009" alt="2026-11-07_06 27 42" src="https://github.com/user-attachments/assets/b8019914-b585-486b-b5f7-54b613a8fac4" />
 
 
 
 Also, **Inspirational Message** is not inspirational at all lol.
+
 <img width="532" height="252" alt="image" src="https://github.com/user-attachments/assets/fc386f18-0b99-43b7-91fe-785c6c3d2d3a" />
 
 
