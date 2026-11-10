@@ -17,7 +17,7 @@ Unlike the first challenge, the second flag is not directly visible in the rules
 The challenge description suggests that we should examine the rules more carefully.
 
 Looking at the Discord `#rules` message, we notice that the first character of each bullet point forms a hidden message. This technique is known as an **acrostic**.
-<img width="1330" height="673" alt="image" src="https://github.com/user-attachments/assets/26aef72c-0212-4d5f-9743-6e3495fab470" />
+<img width="1330" height="939" alt="sanitycheck2" src="https://github.com/user-attachments/assets/83b8d656-98c6-4426-b613-ffdd6f620aaa" />
 
 Reading the first character of each rule from top to bottom gives:
 
