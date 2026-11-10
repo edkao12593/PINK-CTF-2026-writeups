@@ -31,7 +31,7 @@ After submitting it, you'll receive the following message:
 
 > Thanks for filling out the survey... But why is this a Minecraft Challenge? Rumors say the Guard protecting the Gate got knocked out! And someone is trying to break the Gate? You should check on it! You might need this spell against the Monster: "ANTIPINKMONSTER!"
 
-*[Insert screenshot: Survey completion message]*
+<img width="713" height="186" alt="image" src="https://github.com/user-attachments/assets/b2eedda1-7a50-48f6-89a5-c032f838c88d" />
 
 Hmm... A guard got knocked out? Someone is trying to break the gate?
 
@@ -47,13 +47,13 @@ The guard who was previously protecting the gate is now **knocked out**, and the
 
 The layout has completely changed compared to before.
 
-*[Insert screenshot: Changed server layout and knocked-out guard]*
+<img width="1920" height="1009" alt="2026-11-10_19 19 21" src="https://github.com/user-attachments/assets/07fefd68-b4f3-41a9-aa88-4629c6ed2cb3" />
 
 After entering the gate, you'll find a sign with a strange hexadecimal code written on it.
 
 And behind it is a pretty cool-looking **animated pink monster!**
 
-*[Insert screenshot: The monster and the sign]*
+<img width="1920" height="1009" alt="2026-11-10_19 19 04" src="https://github.com/user-attachments/assets/65a052ea-e3c7-4305-a842-80eb02863271" />
 
 The code on the sign reads:
 
