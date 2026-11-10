@@ -7,11 +7,11 @@
 
 ## Challenge Description
 
-> Thanks for participating in PINK+ CTF!
->
-> **But... something isnt right???**
->
-> Please note that this challenge doesnt count as a tie breaker.
+Thanks for participating in PINK+ CTF!
+
+**But... something isnt right???**
+
+Please note that this challenge doesnt count as a tie breaker.
 
 The challenge also provides a link to a Google Forms survey.
 
